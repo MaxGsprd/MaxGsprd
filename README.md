@@ -1,8 +1,10 @@
-### Hi there 👋
+Hello wordl !
+
+En poursuivant ma démarche de reconversion professionnelle et fort d'une formation réussie de développement web à la 3W Academy de Paris où j'ai obtenu un titre RNCP niveau III (Bac+2) de développeur intégrateur en applications web,  je suis à présent à la recherche d'un contrat de professionnalisation afin de poursuivre une formation en alternance sur la régon Parisienne, de concepteur développeur nouvelles technologies avec l'école Aston école IT du groupe SQLI (bac +3/4) au rythme de 3 semaines / 1 semaine.
 
 <!--
 **MaxGsprd/MaxGsprd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
