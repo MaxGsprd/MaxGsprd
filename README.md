@@ -1,18 +1,23 @@
-Hello wordl !
+Hello World !
 
-En poursuivant ma démarche de reconversion professionnelle et fort d'une formation réussie de développement web à la 3W Academy de Paris où j'ai obtenu un titre RNCP niveau III (Bac+2) de développeur intégrateur en applications web,  je suis à présent à la recherche d'un contrat de professionnalisation afin de poursuivre une formation en alternance sur la régon Parisienne, de concepteur développeur nouvelles technologies avec l'école Aston école IT du groupe SQLI (bac +3/4) au rythme de 3 semaines / 1 semaine.
+Après une première formation de développement web à la 3W academy j'ai récemment commencé une formation de Développeur Concepteur Nouvelles Technologies à l'école Aston IT dans la région Parisienne en vue d'obtenir un diplôme niveau bac+4.
+
+Je recherche donc un contrat d'alternance au rythme de 3 semaines en entreprise / 1 semaine à l'école pour commencer le plus tôt possible ;)
+
+N'hésitez pas à me contacter sur: https://www.linkedin.com/in/max-gaspard/
+
+À bientôt peut être ! ;) 
+
+Max 
 
 <!--
 **MaxGsprd/MaxGsprd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <!--
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 🔭 I’m currently working on my training at Aston école IT
+- 🌱 I’m currently learning React
+- 👯 I’m looking to collaborate on anything within my skills
+- 📫 How to reach me: https://www.linkedin.com/in/max-gaspard/
 - ⚡ Fun fact: ...
 -->
