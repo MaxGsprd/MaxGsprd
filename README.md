@@ -10,7 +10,7 @@
 
 - :mortar_board: While I was working I was also training at Aston IT school 1 week per month in order to obtain a Bachelor level equivalent fullstack web developer professional certificate. I obtained the certification in September 2022.
 
-- :dart: I’m currently focused on developing my skill in ASP.Net (MVC, WebApi, Blazor) and Angular.
+- :dart: I’m currently focused on learning in ASP.Net (MVC, WebApi, Blazor) and Angular in depth.
 
 - :mailbox: How to reach me: 
   - Linkedin : https://www.linkedin.com/in/max-gaspard
@@ -20,9 +20,10 @@
 
 ### From <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/fr.svg" title="France flad" alt="France flag" width="30" height="30"/> to <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="Canada flag" alt="Canada flag" width="30" height="30"/>: 
 
-- :airplane: I am now looking to move and work in Cananda later this year, in B.C Vancouver area, preferably after June (because I am to be married in June), but I can work remote in the meantime. (NB : I already have an accomodaton in Burnaby, BC).
+- :airplane: I am now looking to move and work in Cananda later this year, in B.C Vancouver area, preferably after June (because I am to be married in June), but I can work remote in the meantime.
 
-- :airplane: I am now looking to move and work in Cananda later this year, in B.C Vancouver area, preferably after June (because I am to be married in June), but I can work remote in the meantime. (NB : I already have an accomodaton in Burnaby, BC).
+- :rocket: While I know hiring somebody from abroad can sounds complicated, I am eligible for the IEC young professional program, wich allows for a quicker, simpler and cheaper immigration process.
+	more information at : https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/iec.html
 
 - :house_with_garden: I already have an accomodaton in Burnaby, B.C, so it will be easy for me to move once hired.
 
