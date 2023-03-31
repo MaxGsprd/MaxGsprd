@@ -31,6 +31,8 @@
 
 - :house_with_garden: I already have an accomodaton in Burnaby, B.C, so it will be easy for me to move once hired.
 
+<br>
+
 ### :hammer_and_wrench: Languages and Tools :
 <hr>
 <div>
