@@ -22,6 +22,10 @@
 
 - :airplane: I am now looking to move and work in Cananda later this year, in B.C Vancouver area, preferably after June (because I am to be married in June), but I can work remote in the meantime. (NB : I already have an accomodaton in Burnaby, BC).
 
+- :airplane: I am now looking to move and work in Cananda later this year, in B.C Vancouver area, preferably after June (because I am to be married in June), but I can work remote in the meantime. (NB : I already have an accomodaton in Burnaby, BC).
+
+- :house_with_garden: I already have an accomodaton in Burnaby, B.C, so it will be easy for me to move once hired.
+
 ### :hammer_and_wrench: Languages and Tools :
 <hr>
 <div>
