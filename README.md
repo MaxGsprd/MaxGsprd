@@ -18,7 +18,7 @@
   - you can also check out my portfolio website on : https://maxgaspard.windblow.fr
 <hr>
 
-### :pencil2: From to:
+### From to:
 ### :From<img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/fr.svg" title="France flad" alt="France flag" width="30" height="30"/>to<img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="Canada flag" alt="Canada flag" width="30" height="30"/>: 
 <hr>
 
