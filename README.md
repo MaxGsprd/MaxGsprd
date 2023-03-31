@@ -17,7 +17,7 @@
   - email : max.gaspard@outlook.fr
   - you can also check out my portfolio website on : https://maxgaspard.windblow.fr
 <hr>
-### From <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="Canada flag" alt="Canada flag" width="30" height="30"/> to <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/fr.svg" title="France flad" alt="France flag" width="30" height="30"/>
+### :From <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/fr.svg" title="France flad" alt="France flag" width="30" height="30"/> to <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="Canada flag" alt="Canada flag" width="30" height="30"/>: 
 <hr>
 
 - :airplane: I am now looking to move and work in Cananda later this year, in B.C Vancouver area, preferably after June (because I am to be married in June), but I can work remote in the meantime. (NB : I already have an accomodaton in Burnaby, BC).
