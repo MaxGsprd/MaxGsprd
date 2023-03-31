@@ -14,3 +14,4 @@ Hello and welcome on my github page ! here are some informations about me :
   - email : max.gaspard@outlook.fr
   - you can also check out my portfolio website on : https://maxgaspard.windblow.fr
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
