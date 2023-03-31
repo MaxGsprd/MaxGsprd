@@ -1,6 +1,3 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
 
 
 Hello and welcome on my github page ! here are some informations about me :
@@ -14,4 +11,4 @@ Hello and welcome on my github page ! here are some informations about me :
   - email : max.gaspard@outlook.fr
   - you can also check out my portfolio website on : https://maxgaspard.windblow.fr
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
