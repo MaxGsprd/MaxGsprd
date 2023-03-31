@@ -1,16 +1,12 @@
 
 
 	
-### 👋 About me : from   <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="HTML5" alt="HTML" width="30" height="30"/> to   <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="HTML5" alt="HTML" width="30" height="30"/>
-<hr>
+### 👋 About me :
 👋 Hello and welcome on my github page ! Here are some informations about me :&nbsp;
 
-  <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="HTML5" alt="HTML" width="30" height="30"/>&nbsp;
 - :rocket: After working two years as a junior fullstack web developer in Versailles, France, I am now looking for work in Canada, BC Vancouver area !
 
 - :mortar_board: While I was working 3 weeks per month I was also training at Aston IT school 1 week per month in order to obtain a Bachelor level equivalent fullstack web developer professional certificate. I obtained the certification in September 2022.
- 
-- :airplane: I am now looking to move and work in Cananda later this year, in B.C Vancouver area, preferably after June (because I am to be married in June), but I can work remote in the meantime. (NB : I already have an accomodaton in Burnaby, BC).
 
 - :dart: I’m currently focused on developing my skill in ASP.Net (MVC, WebApi, Blazor) and Angular.
 
@@ -19,6 +15,10 @@
   - email : max.gaspard@outlook.fr
   - you can also check out my portfolio website on : https://maxgaspard.windblow.fr
 
+### :from   <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="HTML5" alt="HTML" width="30" height="30"/> to   <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="HTML5" alt="HTML" width="30" height="30"/>
+<hr>
+
+- :airplane: I am now looking to move and work in Cananda later this year, in B.C Vancouver area, preferably after June (because I am to be married in June), but I can work remote in the meantime. (NB : I already have an accomodaton in Burnaby, BC).
 
 ### :hammer_and_wrench: Languages and Tools :
 <hr>
