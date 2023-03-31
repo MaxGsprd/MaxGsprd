@@ -1,7 +1,7 @@
 
 
-	👋 Hello and welcome on my github page ! Here are some informations about me :
-### :hammer_and_wrench: About me :
+	
+### :hammer_and_wrench: About me :  👋 Hello and welcome on my github page ! Here are some informations about me
 <hr>
 
 - :rocket: After working two years as a junior fullstack web developer in Versailles, France, I am now looking for work in Canada, BC Vancouver area !
