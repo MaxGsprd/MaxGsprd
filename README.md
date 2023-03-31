@@ -2,7 +2,7 @@
 
 	👋 Hello and welcome on my github page ! Here are some informations about me :
 
-- :rocket: After working two as a junior fullstack web developer in Versailles France, I am now looking for work in Canada, BC Vancouver area !
+- :rocket: After working two years as a junior fullstack web developer in Versailles, France, I am now looking for work in Canada, BC Vancouver area !
 
 - :mortar_board: While I was working 3 weeks per month I was also training at Aston IT school 1 week per month in order to obtain a Bachelor level equivalent fullstack web developer professional certificate. I obtained the certification in September 2022.
  
