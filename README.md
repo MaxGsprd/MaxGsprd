@@ -1,7 +1,7 @@
 
 
 	
-### 👋 About me :
+### 👋 About me : from   <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="HTML5" alt="HTML" width="30" height="30"/> to   <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="HTML5" alt="HTML" width="30" height="30"/>
 <hr>
 👋 Hello and welcome on my github page ! Here are some informations about me :&nbsp;
 
