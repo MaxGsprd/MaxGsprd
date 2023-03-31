@@ -1,6 +1,6 @@
 
 
-	👋 Hello and welcome on my github page ! here are some informations about me :
+	👋 Hello and welcome on my github page ! Here are some informations about me :
 
 - :rocket: After working two as a junior fullstack web developer in Versailles France, I am now looking for work in Canada, BC Vancouver area !
 
