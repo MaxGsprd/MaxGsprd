@@ -25,7 +25,7 @@
 
 - :airplane: I am now looking to move and work in Canada later this year, in B.C. Vancouver area, preferably after June (because I am to be married in June), but I can work remotely in the meantime.
 
-- :rocket: While I know, hiring somebody from abroad can sounds complicated, I am eligible for the IEC young professional program, wich allows for a quicker, simpler and cheaper immigration process. 
+- :rocket: While I know, hiring somebody from abroad can sounds complicated, I am eligible for the IEC young professional program, which allows for a quicker, simpler and cheaper immigration process. 
 	- more information at: https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/iec.html
 	- I am also eligible for long term immigration programs like the BC PNP, Francophone mobility etc.
 
