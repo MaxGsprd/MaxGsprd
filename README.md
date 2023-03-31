@@ -4,6 +4,7 @@
 ### :pencil2: About me :
 <hr>
 👋 Hello and welcome on my github page ! Here are some informations about me :&nbsp;
+\n
 
 - :rocket: After working two years as a junior fullstack web developer in Versailles, France, I am now looking for work in Canada, BC Vancouver area !
 
