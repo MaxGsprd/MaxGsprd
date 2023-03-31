@@ -1,3 +1,8 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+
 Hello and welcome on my github page ! here are some informations about me :
 
 - After a two year work contract as a junior fullstack web developer in Versailles France, I am now looking for work in Canada, BC Vancouver area !
