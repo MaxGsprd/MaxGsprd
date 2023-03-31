@@ -15,7 +15,7 @@
   - email : max.gaspard@outlook.fr
   - you can also check out my portfolio website on : https://maxgaspard.windblow.fr
 
-
+<hr>
 ### :hammer_and_wrench: Languages and Tools :&nbsp;
 
 <div>
