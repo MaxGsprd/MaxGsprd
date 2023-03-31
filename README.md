@@ -11,4 +11,4 @@ Hello and welcome on my github page ! here are some informations about me :
   - email : max.gaspard@outlook.fr
   - you can also check out my portfolio website on : https://maxgaspard.windblow.fr
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MaxGsprd)](https://github.com/MaxGsprd/github-readme-stats)
