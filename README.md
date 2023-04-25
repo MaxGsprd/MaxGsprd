@@ -6,7 +6,7 @@
 👋 Hello and welcome on my github page ! Here are some informations about me:&nbsp;
 
 
-- 💻 After working two years as a junior full stack web developer in Versailles, France, I am now looking for work in Canada, BC Vancouver area!
+- 💻 After working two years as a junior full stack web developer in Versailles, France, I am now looking for work in Canada, BC Vancouver area! I'm also interested in remote work.
 
 - :mortar_board: While I was working I was also training at Aston IT school 1 week per month in order to obtain a Bachelor level equivalent fullstack web developer professional certificate. I obtained the certification in September 2022.
 
@@ -23,7 +23,7 @@
 ### From France <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/fr.svg" title="France flad" alt="France flag" width="30" height="30"/> to Canada <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="Canada flag" alt="Canada flag" width="30" height="30"/>: 
 <hr>
 
-- :airplane: I am now looking to move and work in Canada later this year, in B.C. Vancouver area, preferably after June (because I am to be married in June), but I can work remotely in the meantime.
+- :airplane: I am now looking to move and work in Canada later this year, in B.C. Vancouver area, but I can work remotely in the meantime.
 
 - :rocket: While I know, hiring somebody from abroad can sounds complicated, I am eligible for the IEC young professional program, which allows for a quicker, simpler and cheaper immigration process. 
 	- more information at: https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/iec.html
