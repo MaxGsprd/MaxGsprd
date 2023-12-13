@@ -1,10 +1,9 @@
 
 
 	
-### :pencil2: About me:
+About me
 <hr>
 👋 Hello and welcome on my github page ! Here are some informations about me:&nbsp;
-
 
 - 💻 After working for two years as a full-stack web developer in Versailles and obtaining a professional developer certification, I am now looking for freelancing work in the Paris area.
 
@@ -16,20 +15,6 @@
   - Linkedin : https://www.linkedin.com/in/max-gaspard
   - email : max.gaspard@outlook.fr
   - you can also check out my portfolio website on : https://maxgaspard.windblow.fr
-
-<br>
-
-
-### From France <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/fr.svg" title="France flad" alt="France flag" width="30" height="30"/> to Canada <img src="https://github.com/csmoore/country-flag-icons/blob/master/country-flags-4x3-svg/ca.svg" title="Canada flag" alt="Canada flag" width="30" height="30"/>: 
-<hr>
-
-- :airplane: I am now looking to move and work in Canada later this year, in B.C. Vancouver area, but I can work remotely in the meantime.
-
-- :rocket: While I know, hiring somebody from abroad can sounds complicated, I am eligible for the IEC young professional program, which allows for a quicker, simpler and cheaper immigration process. 
-	- more information at: https://www.canada.ca/en/immigration-refugees-citizenship/services/work-canada/hire-temporary-foreign/iec.html
-	- I am also eligible for long term immigration programs like the BC PNP, Francophone mobility etc.
-
-- :house_with_garden: I already have an accommodation in Burnaby, B.C., so it will be easy for me to move once hired.
 
 <br>
 
