@@ -7,8 +7,6 @@ About me
 
 - 💻 After working for two years as a full-stack web developer in Versailles and obtaining a professional developer certification, I am now working as a freelancer in the Paris area.
 
-- :dart: I’m currently focused on learning in ASP.Net (MVC, WebApi, Blazor) and Angular in depth.
-
 - :mailbox: How to reach me: 
   - Linkedin : https://www.linkedin.com/in/max-gaspard
   - email : max.gaspard@outlook.fr
