@@ -10,7 +10,6 @@ About me
 - :mailbox: How to reach me: 
   - Linkedin : https://www.linkedin.com/in/max-gaspard
   - email : max.gaspard@outlook.fr
-  - you can also check out my portfolio website on : https://maxgaspard.windblow.fr
 
 <br>
 
