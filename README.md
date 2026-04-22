@@ -86,6 +86,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maxgaspard-webdeveloper.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max.gaspard@outlook.fr)
 
-📍 Maisons-Laffitte, Île-de-France 
-FR : Remote disponible, avec présence sur site partielle selon les besoins (2 à 3 jours/semaine).
-EN : Remote available, with partial on-site presence depending on needs (2 to 3 days/week).
+> 📍 Maisons-Laffitte, Île-de-France 
+> FR : Remote disponible, avec présence sur site partielle selon les besoins (2 à 3 jours/semaine).
+> EN : Remote available, with partial on-site presence depending on needs (2 to 3 days/week).
