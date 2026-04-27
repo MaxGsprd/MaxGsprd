@@ -1,4 +1,4 @@
-# 👋 Bonjour, je suis Max Gaspard | Hi, I'm Max Gaspard
+# 👋 Bonjour, moi c'est Max Gaspard | Hi, I'm Max Gaspard
 
 ### Développeur Backend PHP | Backend PHP Developer
 ### Applications métier (ERP · CRM · SaaS) | Business Applications
