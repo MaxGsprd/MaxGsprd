@@ -83,7 +83,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/max-gaspard)
 [![Malt](https://img.shields.io/badge/Malt-FF5C57?style=for-the-badge&logo=malt&logoColor=white)](https://www.malt.fr/profile/maxgaspard1)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maxgaspard-webdeveloper.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://maxgaspard.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:max.gaspard@outlook.fr)
 
 > 📍 Maisons-Laffitte, Île-de-France 
